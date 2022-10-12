@@ -2,6 +2,7 @@
 To run this :
 1) Clone this repository
 2) nodemon app.js
+3) Open Chrome and type- localhost:3000
 
 I have created this using awesome Todo-List website using node and express. It also include html , css, and javascript.. HOPE U LIKE IT !!
 
